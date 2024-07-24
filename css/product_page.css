@@ -1,0 +1,103 @@
+@charset "utf-8";
+/*
+CSS Document
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lato', sans-serif;  */
+.def h1{text-align: center;width: 100%;padding-top: 10px;}
+.def p{text-align: center;font-family: 'Lato', sans-serif;font-style: italic;    padding: 60px;font-size: 15px;    padding-top: 17px;}
+.sw img{max-width: 35%;
+    padding: 25px;
+    padding-left: 69px;position:absolute;max-height: 400px;
+}
+.sw h3{text-align:left;position:relative;padding-left: 500px;
+    padding-top: 58px;}
+.sw p{    padding: 128px;
+    padding-left: 563px;font-family: 'Lato', sans-serif;font-style: italic; }
+ .sw h3::before{
+	width:266px;
+	height:2px;
+	background:#141448;
+	content:"";
+	position:absolute;
+	bottom:349px;
+	    right: 58%;
+    top: 185px;
+}
+.cw img{max-width: 89%;
+    padding: 57px;
+    position: absolute;
+    max-height: 400px;
+    right: 31px;}
+.cw h3{text-align:right;position: relative;left: 91px;
+    top: 53px;
+}
+.cw p{font-family: 'Lato', sans-serif;font-style: italic;padding-left: 98px;
+    padding-top: 143px;
+}
+ .cw h3::before{
+	width:266px;
+	height:2px;
+	background:#141448;
+	content:"";
+	position:absolute;
+	bottom:349px;
+	    right: -24%;
+    top: 130px;
+}
+.bw img{max-width: 35%;
+    padding: 25px;
+    padding-left: 69px;position:absolute;max-height: 400px;    padding-top: 112px;
+}
+.bw h3{text-align:left;position:relative;padding-left: 500px;
+    padding-top: 107px;}
+.bw p{    padding: 128px;
+    padding-left: 563px;font-family: 'Lato', sans-serif;font-style: italic; }
+ .bw h3::before{
+	width:266px;
+	height:2px;
+	background:#141448;
+	content:"";
+	position:absolute;
+	bottom:349px;
+	    right: 58%;
+    top: 250px;
+}
+.ccw img{max-width: 89%;
+    padding: 57px;
+    position: absolute;
+    max-height: 400px;
+    right: 31px;}
+.ccw h3{text-align:right;position: relative;left: 91px;
+    top: 53px;
+}
+.ccw p{font-family: 'Lato', sans-serif;font-style: italic;padding-left: 98px;
+    padding-top: 143px;
+}
+.ccw h3::before{
+	width:266px;
+	height:2px;
+	background:#141448;
+	content:"";
+	position:absolute;
+	bottom:349px;
+	    right: -24%;
+    top: 130px;
+}
+.louvers  img{max-width: 35%;
+    padding: 25px;
+    padding-left: 69px;position:absolute;max-height: 400px;    padding-top: 112px;
+}
+.louvers h3{text-align:left;position:relative;padding-left: 500px;
+    padding-top: 107px;}
+.louvers p{    padding: 128px;
+    padding-left: 563px;font-family: 'Lato', sans-serif;font-style: italic; }
+ .louvers h3::before{
+	width:266px;
+	height:2px;
+	background:#141448;
+	content:"";
+	position:absolute;
+	bottom:349px;
+	    right: 58%;
+    top: 250px;
+}

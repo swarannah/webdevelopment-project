@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.banner h2{padding: 112px;padding-bottom: 51px;}
+.banner{text-align: center;}
+.banner img{position: absolute;z-index: -999999999;max-width: 100%;height: 600px;
+    left: 340px;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+    padding-bottom: 23px;}
